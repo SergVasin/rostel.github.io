@@ -1,0 +1,350 @@
+@media screen and (max-width: 1200px) {
+
+
+	.tarifs__title,
+	.tarifs__discription,
+	.tarifs__subtitle,
+	.tarifs__subdiscription {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.callme__form-left {
+		margin-right: 20px;
+	}
+
+	.callme__form-right {
+		margin-left: 20px;
+	}
+
+	.popup__polit,
+	.popup__tel {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.popup__tel-bg{
+		width: 100%;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+
+	.polit-title {
+		font-size: 28px;
+	}
+
+
+
+
+
+
+
+
+
+
+	.header__container {
+		width: 780px;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.header__discription {
+		font-size: 20px;
+	}
+	.footer__text {
+		margin-left: 20px;
+	}
+	
+	.link__pol {
+		margin-right: 20px;
+	}
+	.advantages__content{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.application__title {
+
+		margin-bottom: 40px;
+		font-size: 38px;
+
+	}
+
+	.application__description {
+
+
+		margin-bottom: 50px;
+		font-size: 18px;
+
+	}
+	.more__block{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+}
+
+
+@media screen and (max-width: 980px) {
+
+
+	.nav__btn {
+		display: block;
+	}
+	.nav__main {
+		display: none;
+	}
+	.nav__add--open {
+		display: block;
+		padding-bottom: 30px;	
+		
+	}
+
+	.nav__menu {
+		display: block;
+		padding-top: 30px;
+		padding-bottom: 20px;	
+	}
+	.menu__item {
+		margin-bottom: 10px;
+	}
+
+	.header{
+
+		margin-top: 0px;
+
+
+	}
+
+
+	.callme__form{
+		display: block;
+	}
+	.text__left {
+		text-align: center;
+	}
+
+	.footer{
+		display: block;
+		height: auto;
+	}
+
+	.link__pol {
+		margin-left: 20px;
+	}
+
+	.footer__text {
+		margin-right: 20px;
+	}
+
+
+	.header__container {
+		width: 640px;
+	}
+	/*.nav {
+		display: none;
+		}*/
+		.tarif__cards {
+			display: block;
+			/*margin: auto;*/
+		}
+		.card {
+			margin: auto !important;
+		}
+		.footer__text,
+		.link__pol {
+			font-size: 12px;
+			padding-top: 10px;
+			padding-bottom: 10px;
+		}
+		.advantages__block-logo{
+			width: 50px;
+		}
+		.advantages__block-text {
+			padding-bottom: 35px;
+			margin-left: 70px;
+		}
+		.advantages__block-title {
+
+			font-size: 18px;
+
+		}
+		.advantages__block-description {
+			font-size: 16px;
+
+		}
+		.more__title {
+			font-size: 28px;
+
+		}
+
+		.more__discription {
+
+			font-size: 18px;
+
+		}
+
+
+	}
+	@media screen and (max-width: 640px) {
+
+		.header__discription {
+			font-size: 14px;
+		}
+		.header__link {
+			padding: 20px 30px;
+			margin-left: 0;
+		}
+		.advantages__block-title {
+
+			font-size: 16px;
+
+		}
+		.advantages__block-description {
+			font-size: 14px;
+
+		}
+		.application__title {
+
+			margin-bottom: 18px;
+			font-size: 30px;
+			margin-left: 20px;
+			margin-right: 20px;
+
+		}
+
+		.application__description {
+
+
+			margin-bottom: 30px;
+			font-size: 16px;
+			margin-left: 20px;
+			margin-right: 20px;
+
+		}
+		.application__form{
+			margin-left: 20px;
+			margin-right: 20px;
+		}
+		.application__underform {
+
+			padding-bottom: 50px;
+			font-size: 12px;
+			margin-left: 20px;
+			margin-right: 20px;
+
+		}
+		.more__link{
+			padding: 20px 30px;
+
+			margin-top: 0;
+			margin-bottom: 45px;
+			margin-left: 0;
+			margin-right: 20px;
+		}
+		.header__title{
+
+
+			line-height: 50px;
+			letter-spacing: 0px;
+			font-size: 38px;
+
+		}
+		.callme__title {
+
+			font-size: 32px;
+			margin-left: 20px;
+			margin-right: 20px;
+
+
+		}
+
+		.callme__description {
+			font-size: 18px;
+			margin-left: 20px;
+			margin-right: 20px;
+
+
+		}
+		.callme__form-left {
+			margin-right: 20px;
+			margin-left: 20px;
+		}
+
+		.callme__form-right {
+			margin-right: 20px;
+			margin-left: 20px;
+		}
+
+		.callme__form-btn,
+		.callme__form-input {
+
+			margin-top: 10px;
+		}
+
+		.callme__form-phone {
+			font-size: 20px;
+
+		}
+		.timer__text{
+			font-size: 28px;
+
+		}
+		.etNumber {
+			font-size: 26px !important;
+			width: auto !important;
+			padding: 0px 4px !important;
+		}
+		.etSign {
+			font-size: 16px !important;
+		}
+		.etSep {
+			font-size: 26px !important;
+			width: auto !important;
+			padding: 0px 3px !important;
+		}
+
+		.color__form{
+
+			padding: 20px 25px;
+
+		}
+		.orange__form-color,
+		.purple__form-color {
+
+			padding: 20px 25px;
+
+
+		}
+		.color-title{
+			font-size: 28px;
+
+		}
+
+		.color-descr{
+			font-size: 14px;
+
+
+		}
+		.color__enter{
+
+			height: 50px;
+			padding: 0 10px;
+			font-size: 14px;
+
+
+		}
+		.color__underform{
+
+			font-size: 12px;
+
+		}
+		.orange__btn,
+		.purple__btn {
+
+			height: 50px;
+			font-size: 14px;
+			padding-left: 30px;
+			padding-right: 30px;
+
+
+		}
+
+	}
+
